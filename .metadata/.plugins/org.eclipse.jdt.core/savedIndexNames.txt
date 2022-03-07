@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Javeriya\Downloads\project-sportyShoes-main\project-sportyShoes-main\.metadata\.plugins\org.eclipse.jdt.core
+601009909.index
+3792158792.index
+1865797976.index
+579514156.index
+3799748888.index
+760091825.index
